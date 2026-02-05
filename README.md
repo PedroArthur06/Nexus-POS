@@ -1,4 +1,4 @@
-# Sistema Caixa & Gestão de Convênios | Restaurant POS
+# Sistema Caixa & Gestão de Convênios | Nexus POS
 
 ![Status](https://img.shields.io/badge/Status-Em_Produção-success?style=for-the-badge)
 ![Code](https://img.shields.io/badge/Code-Proprietary-red?style=for-the-badge)
